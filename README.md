@@ -1,4 +1,3 @@
-# Welcome to Functional Domain Modeling
 
 ## Why?
 
