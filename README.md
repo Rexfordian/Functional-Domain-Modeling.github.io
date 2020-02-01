@@ -13,7 +13,7 @@ Maybe you're thinking that this has already been attempted through the plethora 
 
 Of course, there's also the *necessary complexity*, which is the complexity of the business itself.  Ideally, the software should be so well designed that the necessary complexity is easier to understand.  In fact, we could say that:
 
-**A primary job of application developers should be to provide knowledge of how the business is supposed to function.**
+**A primary job of application developers should be to expose the application's business knowledge.**
 
 By doing so, we ensure that the application is correct, which increases the confidence all around.  
 
